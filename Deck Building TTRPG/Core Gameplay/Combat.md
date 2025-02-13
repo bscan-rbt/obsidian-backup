@@ -11,6 +11,7 @@
 - *Combat Round* - The Combat Round is comprised of 2 phases: Player Turns and Enemy Turns. There is no set turn order between players, and they can plan out their moves strategically if necessary.
 - *Reactions* - Players and most enemies will have access to Reactions that have certain triggers. These can be played directly from the player's Pool if available.
 
+
 ##### Combat:
 
 Combat is what truly separates this from other TTRPG's, as it is centered around a deck building mechanic. Somewhat inspired by games like Slay the Spire, combat has not specific turn order and players can collaborate to enhance each others abilities. There is only two types of combat starts: Player Priority and Enemy Priority, this simply decides whether the players get round first or if the enemy does. This will be determined by the circumstances that lead to combat, and the players choices in how they approach dangerous situations. In combat, players will face three type of enemies: Monsters, Minions, and Bosses.
