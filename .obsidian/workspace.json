@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deck Building TTRPG/Classes/Martialist/Class Details.md",
+                "file": "Deck Building TTRPG/Test/Testing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Class Details"
+              "title": "Testing"
             }
           }
         ],
@@ -189,15 +189,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "794e13d50448eda3",
+  "active": "fa612b2a272c9877",
   "lastOpenFiles": [
+    "Deck Building TTRPG/Classes/Martialist/Class Details.md",
+    "Deck Building TTRPG/Test/Testing.md",
     "Deck Building TTRPG/Test",
     "TO-DO Lists/Untitled.md",
     "TO-DO Lists/Untitled.canvas",
     "TO-DO Lists/Untitled 1.canvas",
     "TO-DO Lists/To-Do.md",
     "Deck Building TTRPG/Core Gameplay/Decks and Cards.md",
-    "Deck Building TTRPG/Classes/Martialist/Class Details.md",
     "Deck Building TTRPG/Lore/Religions & Gods.md",
     "Deck Building TTRPG/Core Gameplay/Exploring the World.md",
     "Deck Building TTRPG/Lore",
@@ -225,7 +226,6 @@
     "Deck Building TTRPG/Classes/Rogue",
     "Deck Building TTRPG/Classes/Priest",
     "Deck Building TTRPG/Classes/Druid",
-    "Deck Building TTRPG/Classes/Warlock",
     "Airsoft Larp Device v.0.0.1/Mad Science Version.md",
     "Untitled 1.canvas",
     "To-Do.md",
