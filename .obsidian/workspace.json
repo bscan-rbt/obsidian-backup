@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "2b14dace666ff8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ccb6112977cbe4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96718312bfec4e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Airsoft Larp Device v.0.0.1/Ideas for No Flag Prototype.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas for No Flag Prototype"
+            }
+          },
+          {
+            "id": "fa612b2a272c9877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deck Building TTRPG/Classes/Martialist/Class Details.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Class Details"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3ae55d1082ac2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "17397214cd876d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794e13d50448eda3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9bffb47ad393ab84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c345c7e4a12d9258",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29da03bd463b88a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "942ce37ef4101ead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e7e1bf4e09817e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-01-21.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-21"
+            }
+          },
+          {
+            "id": "fc8d332b3c95ee75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-01-21.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-01-21"
+            }
+          },
+          {
+            "id": "5afc9af74e0bb141",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5bfb198de29d6414",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-01-21.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-01-21"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fa612b2a272c9877",
+  "lastOpenFiles": [
+    "Deck Building TTRPG/Core Gameplay/Decks and Cards.md",
+    "Deck Building TTRPG/Classes/Martialist/Class Details.md",
+    "Deck Building TTRPG/Lore/Religions & Gods.md",
+    "Deck Building TTRPG/Core Gameplay/Exploring the World.md",
+    "Deck Building TTRPG/Lore",
+    "Deck Building TTRPG/Core Gameplay/Damage Types.md",
+    "Deck Building TTRPG/Core Gameplay/Combat.md",
+    "Deck Building TTRPG/Core Gameplay/Character Creation.md",
+    "Deck Building TTRPG/Core Gameplay/Attributes & Skills.md",
+    "Deck Building TTRPG/Classes/Druid/Class Details.md",
+    "Deck Building TTRPG/Core Gameplay/Dice.md",
+    "Deck Building TTRPG/Classes/Bard/Class Details.md",
+    "Deck Building TTRPG/Classes/Warlock/Class Details.md",
+    "Deck Building TTRPG/Classes/Ranger/Class Details.md",
+    "Deck Building TTRPG/Classes/Alchemist/Starting Deck.md",
+    "Deck Building TTRPG/Classes/Alchemist/Class Details.md",
+    "Deck Building TTRPG/Classes/Rogue/Class Details.md",
+    "Deck Building TTRPG/Classes/Elementalist/Class Details.md",
+    "Deck Building TTRPG/Classes/Priest/Class Details.md",
+    "Airsoft Larp Device v.0.0.1/Ideas for No Flag Prototype.md",
+    "Deck Building TTRPG/Classes/Concepts/Class Concepts.md",
+    "Deck Building TTRPG/Classes/Bard",
+    "Deck Building TTRPG/Classes/Alchemist",
+    "Deck Building TTRPG/Core Gameplay/Untitled",
+    "Deck Building TTRPG/Classes/Ranger",
+    "Deck Building TTRPG/Classes/Concepts",
+    "Deck Building TTRPG/Classes/Rogue",
+    "Deck Building TTRPG/Classes/Priest",
+    "Deck Building TTRPG/Classes/Druid",
+    "Deck Building TTRPG/Classes/Warlock",
+    "Airsoft Larp Device v.0.0.1/Mad Science Version.md",
+    "Untitled 1.canvas",
+    "To-Do.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "2025-01-21.md"
+  ]
+}

@@ -1,0 +1,4 @@
+-  Lifting platform
+- Garage style sliding door
+- Keypad for shenanigans
+- 
