@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deck Building TTRPG/Test/Testing.md",
+                "file": "Deck Building TTRPG/Classes/Martialist/Class Details.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "Class Details"
             }
           }
         ],
@@ -191,8 +191,8 @@
   },
   "active": "fa612b2a272c9877",
   "lastOpenFiles": [
-    "Deck Building TTRPG/Classes/Martialist/Class Details.md",
     "Deck Building TTRPG/Test/Testing.md",
+    "Deck Building TTRPG/Classes/Martialist/Class Details.md",
     "Deck Building TTRPG/Test",
     "TO-DO Lists/Untitled.md",
     "TO-DO Lists/Untitled.canvas",
