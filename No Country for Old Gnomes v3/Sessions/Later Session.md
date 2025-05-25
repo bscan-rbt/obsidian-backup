@@ -1,5 +1,0 @@
-#runningthegame
-As the party is talking to Gideon they hear it again, the chatter.... Growing louder now with every moment.
-
-Gideon jumps and and says he needs to get some help and climbs back on top of the caravan. He returns shortly with an armful of what looks to be dynamite and tells them he needs their help one more time. The party can move with him back to the rear cart, Gideon gets on and tells them they need to release the cart. He says theres only one way to guarantee the dynamite goes off at the right time.... Gideon releases the cart and salutes them as he drifts back towards the sound... 
-CRACK! The thundering rapport off the dynamite nearly knocks over anyone who was watching. The fiery dome of smoke and fire consumes the wagon and creature alike, as the rippling shockwave expands outward across the sand. Everyone stands watching, waiting.... But nothing emerges from the smoke, the air once again filled with nothing more than the rhythmic beating of the wagon wheels. Their pace gently begins to slow, and the conductor yells back that Cervez is in sight.
