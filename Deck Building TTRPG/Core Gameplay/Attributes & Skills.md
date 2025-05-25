@@ -1,3 +1,16 @@
+
+
+
+REWORKING FOR SIMPLICITY:
+
+- Base attributes will 1:1 represent combat power based on primary attributes. e.g.: 1 Strength = 1 Attack Power for a barbarian.
+- Skills will have minimum stat requirements, or come with specific feats / items. These will be in no way directly derived from primary stats
+- Hit points will still scale additionally on Stamina
+- Tertiary attributes and critical strike will be gained purely through class feats and gear
+- A large portion of feats will be locked behind primary stat requirements to maintain the flavour of each unique stat
+
+
+
 **Base Attributes:**
 
 *Strength* - determines the characters physical strength and raw athletic ability. Directly increases *attack power* and may be required to equip certain Great Weapons.

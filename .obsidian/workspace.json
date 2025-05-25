@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ccb6112977cbe4d",
+        "id": "a51dd93a4edc85b4",
         "type": "tabs",
         "children": [
           {
-            "id": "d96718312bfec4e3",
+            "id": "26e5f477b9a458b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Airsoft Larp Device v.0.0.1/Ideas for No Flag Prototype.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ideas for No Flag Prototype"
-            }
-          },
-          {
-            "id": "fa612b2a272c9877",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deck Building TTRPG/Core Gameplay/Equipment.md",
+                "file": "Gay Sundays/Adam/AI GIR.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Equipment"
+              "title": "AI GIR"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +156,8 @@
               "title": "Outline of 2025-01-21"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,47 +175,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa612b2a272c9877",
+  "active": "26e5f477b9a458b2",
   "lastOpenFiles": [
-    "Deck Building TTRPG/Core Gameplay/Combat.md",
-    "Deck Building TTRPG/Core Gameplay/Equipment.md",
-    "Deck Building TTRPG/Brainstorming/Example Play.md",
-    "Deck Building TTRPG/Classes/Martialist/Class Details.md",
-    "Deck Building TTRPG/Classes/Ranger/Class Details.md",
-    "Deck Building TTRPG/Classes/Druid/Class Details.md",
-    "Deck Building TTRPG/Test/Testing.md",
-    "Deck Building TTRPG/Test",
+    "Gay Sundays/Adam/Airsoft Replica Turret.md",
+    "Gay Sundays/Adam/AI GIR.md",
+    "Gay Sundays/Project List.md",
+    "Gay Sundays/Logan/Queerest Letter.md",
+    "Gay Sundays/Simeon/Obnoxious Door.md",
+    "Gay Sundays/Simeon/Tactical Extraction Device.md",
+    "Gay Sundays/Logan/Building a game in gadot.md",
+    "Gay Sundays/Ben/Gen 3 Fog Unit.md",
+    "Gay Sundays/Ben/Tactical Diffusal Device.md",
+    "Gay Sundays/Simeon",
+    "Gay Sundays/Logan",
+    "Gay Sundays/Ben",
+    "Gay Sundays/Adam",
+    "Untitled",
+    "Untitled 3.canvas",
+    "Travel Poem?.md",
+    "LotR Poem.md",
     "TO-DO Lists/Untitled.md",
-    "TO-DO Lists/Untitled.canvas",
-    "TO-DO Lists/Untitled 1.canvas",
     "TO-DO Lists/To-Do.md",
-    "Deck Building TTRPG/Core Gameplay/Decks and Cards.md",
-    "Deck Building TTRPG/Lore/Religions & Gods.md",
-    "Deck Building TTRPG/Core Gameplay/Exploring the World.md",
-    "Deck Building TTRPG/Lore",
-    "Deck Building TTRPG/Core Gameplay/Damage Types.md",
-    "Deck Building TTRPG/Core Gameplay/Character Creation.md",
-    "Deck Building TTRPG/Core Gameplay/Attributes & Skills.md",
-    "Deck Building TTRPG/Core Gameplay/Dice.md",
-    "Deck Building TTRPG/Classes/Bard/Class Details.md",
-    "Deck Building TTRPG/Classes/Warlock/Class Details.md",
-    "Deck Building TTRPG/Classes/Alchemist/Starting Deck.md",
-    "Deck Building TTRPG/Classes/Alchemist/Class Details.md",
-    "Deck Building TTRPG/Classes/Rogue/Class Details.md",
-    "Deck Building TTRPG/Classes/Elementalist/Class Details.md",
-    "Deck Building TTRPG/Classes/Priest/Class Details.md",
-    "Airsoft Larp Device v.0.0.1/Ideas for No Flag Prototype.md",
-    "Deck Building TTRPG/Classes/Concepts/Class Concepts.md",
-    "Deck Building TTRPG/Classes/Bard",
-    "Deck Building TTRPG/Classes/Alchemist",
-    "Deck Building TTRPG/Core Gameplay/Untitled",
-    "Deck Building TTRPG/Classes/Ranger",
-    "Deck Building TTRPG/Classes/Concepts",
-    "Deck Building TTRPG/Classes/Rogue",
-    "Deck Building TTRPG/Classes/Priest",
-    "Deck Building TTRPG/Classes/Druid",
-    "Airsoft Larp Device v.0.0.1/Mad Science Version.md",
+    "Untitled 2.canvas",
+    "No Country for Old Gnomes v3/Halloween Special/Overview.md",
+    "No Country for Old Gnomes v3/Travel/Travel In Ma'Dovus.md",
+    "Deck Building TTRPG/Classes/Martialist/Class Details.md",
     "Untitled 1.canvas",
-    "Untitled.canvas"
+    "No Country for Old Gnomes v3/Sessions/Session 3 Ideas.md",
+    "Untitled.canvas",
+    "No Country for Old Gnomes v3/TO MAKE.md",
+    "Gay Sundays",
+    "No Country for Old Gnomes v3/Sessions/Session 4 Ideas.md",
+    "No Country for Old Gnomes v3/Encounters/Scorpion Swarm.md",
+    "No Country for Old Gnomes v3/Sessions/Session 2 Notes.md",
+    "No Country for Old Gnomes v3/Sessions/Session 1 Notes.md",
+    "No Country for Old Gnomes v3/Sessions/Session 0.md",
+    "No Country for Old Gnomes v3/Sessions/Later Session.md",
+    "No Country for Old Gnomes v3/Lore Primer.md",
+    "No Country for Old Gnomes v3/Game Info.md",
+    "moonlight_guardian-1745078859.png",
+    "Telesat Research",
+    "No Country for Old Gnomes v3/Encounters",
+    "No Country for Old Gnomes v3/Lore/History",
+    "No Country for Old Gnomes v3/Lore/Religions",
+    "TO-DO Lists/Untitled.canvas",
+    "TO-DO Lists/Untitled 1.canvas"
   ]
 }

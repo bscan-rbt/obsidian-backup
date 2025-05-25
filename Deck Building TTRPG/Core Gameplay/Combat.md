@@ -1,3 +1,13 @@
+
+Updated ideas:
+- Damage always hits, but the effect may be mitigated
+- Spell effects will have to overcome the enemies resistance, spells can be stacked to weaken this
+- Armor negates damage up to its value per round,  armor penetration allows a portion of that armor to be ignored. Flanking attacks will reduce deal double damage to armor. e.g.: If a creature has 15 armor and an attack was rolled for 22 damage -- reduce the attack by 7 instead of 15
+- Resistances function the same as armor, but for specific damage types. Resistances are not reduced by flanking
+
+
+
+
 ##### Key Terms:
 
 - *Queue* - Each player and the DM has a Queue which is where they play their Action, Reaction, Triggered Strategy, and Consumable Cards. Cards will be cleared from the Queue at the end of the combat round unless otherwise specified.
@@ -24,7 +34,7 @@ At the beginning of the combat, players will draw 5 cards from their deck and if
 
 - *Resolving Damage:* Compare the damage being dealt to the Defence rating of the enemy, the enemy then takes damage equal the amount that exceeds this defence rating. Some enemies may have resistances or immunities to certain damage types.
 	- *Resistances* are added to the enemies Defence rating when taking damage from the associated type. Most attacks will only inflict a single damage type.
-	- I*mmunities* as the name imply mean that the enemy will not take any damage from this damage type unless an effect otherwise states.
+	- *Immunities* as the name imply mean that the enemy will not take any damage from this damage type unless an effect otherwise states.
 - Stronger Monster's and Bosses can react with defensive abilities that may reduce or negate incoming damage. They will usually have a limited number of reactions available per turn. Players will be able to see these values and factor them into their strategy.
 
 Once players have resolved their damage, the enemy will take their turn and repeat the damage resolution process against the players. Each player will have 1 reaction available to use a Defensive Card or Innate Ability. Some equipment may offer additional effects that can be used to bolster Defence further.

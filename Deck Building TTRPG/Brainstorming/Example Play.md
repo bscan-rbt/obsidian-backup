@@ -4,10 +4,10 @@ Example Set Up:
 
 **Players:**
 
-*Bono* - Level 3 Way of the Fist Martialist. D6 Damage -  2 Attack Power - D4 Defence - 2 Defence Rating. Starting HP: 23
-*Maddy* - Level 3 Stargazer Druid. D8 Damage - 2 Spell Power - D4 Defence - 1 Defence Rating. Starting HP: 25
-*Larry* - Level 3 Marksman Ranger. D6 Damage - 2 Attack Power - D4 Defence - 2 Defence Rating. Starting HP: 20
-*Anny* - Level 3 Knight Martialist - D8 Damage - 2 Attack Power - D6 Defence 2 Defence Rating. Starting HP: 28
+*Bono* - Level 3 Way of the Fist Martialist. D6 Damage -  2 Attack Power - D4 Defence - 2 Defence Rating. Starting HP: 23. 
+*Maddy* - Level 3 Stargazer Druid. D8 Damage - 2 Spell Power - D4 Defence - 1 Defence Rating. Starting HP: 25. 
+*Larry* - Level 3 Marksman Ranger. D6 Damage - 2 Attack Power - D4 Defence - 2 Defence Rating. Starting HP: 20. 
+*Anny* - Level 3 Knight Martialist - D8 Damage - 2 Attack Power - D6 Defence 2 Defence Rating. Starting HP: 28. 
 
 **Enemies:**
 

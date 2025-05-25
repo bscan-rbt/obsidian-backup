@@ -18,14 +18,13 @@ Example(s):
 
 *Hauberk of Vengeance* D8 Defence die and has the trait *Aura of Vengeance:* Each combat round that you take damage gain a stack of Rising Vengeance that last until the end of the encounter. You gain the ability *Burst of Vengeance(2):* Consume all stacks of Rising Vengeance, you let out a burst of Radiant energy, damaging all enemies in a 30ft radius, dealing 1 Damage die per stack.
 
-Armour can also have traits:
-
-- Loud - You have disadvantage on Stealth rolls while wearing this armour.
-- 
-
 Your proficiency in each armour type determines how effectively you use it:
 *Untrained:* 1 DR
 *Proficient:* 2 DR
 *Expert:* 3 DR
 *Master:* 4 DR
+
+
+##### Armour 
+
 

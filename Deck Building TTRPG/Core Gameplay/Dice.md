@@ -4,7 +4,7 @@ Dice are used to determine damage, probability and other random events in the wo
 
 *Defensive Dice* - Defensive dice are rolled when attempting to mitigate damage. Subtract the Defence roll from the damage being dealt. Defensive Dice are the same as the Damage Dice.
 
-*Chance Dice* - Used to determine Chance outcomes, such as Critical Strikes and Luck. The DM's can also use this to determine random outcomes. This is a D100 (or 2 D10's).
+*Chance Dice* - Used to determine Chance outcomes, such as Critical Strikes and Luck. The DM's can also use this to determine random outcomes. This is a D20.
 
 *Skill Dice* - Rolled when determining Skill outcomes such as Persuasion, Sleight of Hand, Athletics, Acrobatics and Knowledge. D20 is the standard dice used for these rolls.
 
